@@ -13,6 +13,7 @@ export default class CourseItem extends Component {
 sjafvsjafvjsf
                     THOONGkasbfasbask
                     HUNGjdfksjdfksjdfkshfkjsfhkjsdfhkjsdfh
+                    uhdygbsdjfb
                 </div>
             </div>
         )
