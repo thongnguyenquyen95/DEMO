@@ -11,12 +11,8 @@ export default class CourseItem extends Component {
                     <p className="lead">5.0</p>
                     <button className="btn btn-success">Go To Detail</button>
 
-<<<<<<< HEAD
                     THOONG
                     HUNG
-=======
-                    THOONGUUU
->>>>>>> 5eb950b16da71ba3cf604ea03c5a63099aa6414b
                 </div>
             </div>
         )
