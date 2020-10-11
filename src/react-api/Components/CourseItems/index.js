@@ -12,7 +12,7 @@ export default class CourseItem extends Component {
                     <button className="btn btn-success">Go To Detail</button>
 
                     THOONG
-                    HUNG
+                    HUNGjdfksjdfksjdfkshfkjsfhkjsdfhkjsdfh
                 </div>
             </div>
         )
